@@ -101,6 +101,4 @@ Your Name – krithesh
 
 📝 License
 This project is licensed under the MIT License – see the LICENSE file for details.
-That will give it a more **open-source project look**.  
 
-Do you want me to make that upgraded, more stylish README version?
