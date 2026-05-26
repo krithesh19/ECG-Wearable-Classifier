@@ -104,8 +104,8 @@ st.markdown("""
 @st.cache_resource
 def load_model():
     if os.path.exists('ecg_cnn_model.keras'):
-        return tf.keras.models.load_model('ecg_cnn_model.keras')
-    return tf.keras.models.load_model('ecg_cnn_model.h5')
+        return keras.models.load_model('ecg_cnn_model.keras')
+    return keras.models.load_model('ecg_cnn_model.h5')
 
 model = load_model()
 
