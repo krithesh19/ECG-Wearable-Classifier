@@ -1,5 +1,6 @@
 streamlit==1.40.0
-tensorflow==2.16.1
-pandas
+keras==3.3.3
 numpy
+pandas
 matplotlib
+h5py
