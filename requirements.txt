@@ -3,3 +3,4 @@ torch==2.9.0
 numpy
 pandas
 matplotlib
+pillow==11.2.1
